@@ -1,0 +1,9 @@
+/**:
+  ros__parameters:
+    can_interface: "can0"
+    joint_names: ["joint_1"]
+    motor_ids: [11]
+    motor_model: "rs-03"
+    default_kp: 50.0
+    default_kd: 1.0
+    publish_rate_hz: 50.0

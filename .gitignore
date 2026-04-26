@@ -1,0 +1,15 @@
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.eggs/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
